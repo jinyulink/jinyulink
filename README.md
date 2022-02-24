@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=jinyulink&show_icons=true&theme=gruvbox) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyulink&layout=compact&theme=gruvbox)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jinyulink&show_icons=true&theme=gruvbox) ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyulink&layout=compact&theme=gruvbox)
