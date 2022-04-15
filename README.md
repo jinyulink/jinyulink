@@ -1,1 +1,4 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jinyulink&show_icons=true&theme=gruvbox) ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyulink&layout=compact&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jinyulink&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinyulink&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jinyulink&theme=nord_dark)
+
