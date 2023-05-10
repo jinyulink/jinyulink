@@ -6,7 +6,7 @@
 ![](https://dcbadge.vercel.app/api/shield/540014696745533440)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jinyulink)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jinyulink)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jinyulink)]([https://github.com/KnlnKS/leetcode-stats](https://leetcode.com/Jinyulink/))
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinyulink&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jinyulink&theme=nord_bright&exclude=html)
