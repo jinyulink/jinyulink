@@ -1,7 +1,7 @@
 ## Hi there 👋
 * 🔭 sophomore CS student at NCU.
 * 🌱 learning Erontend / swe / algo 
-* 🍽 want to learn quant? / ai?
+* 🐢 want to learn quant? / ai?
 
 ![](https://komarev.com/ghpvc/?username=your-github-jinyulink&style=for-the-badge)
 ![](https://dcbadge.vercel.app/api/shield/540014696745533440)
