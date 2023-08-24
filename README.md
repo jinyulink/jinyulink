@@ -1,7 +1,6 @@
 ## Hi there 👋
 * 🔭 sophomore CS student at NCU.
-* 🌱 learning Frontend / Backend / swe / algo 
-* 🐢 want to ? sleep
+* 🌱 learning algo / ds / laravel / javascript / everything
 
 ![](https://komarev.com/ghpvc/?username=your-github-jinyulink&style=for-the-badge)
 ![](https://dcbadge.vercel.app/api/shield/540014696745533440)
