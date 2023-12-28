@@ -1,6 +1,6 @@
 ## Hi there 👋
 * 🔭 sophomore CS student at NCU.
-* 🌱 learning everything related to swe / ai
+* 🌱 learning everything related to cs / swe
 
 ![](https://komarev.com/ghpvc/?username=your-github-jinyulink&style=for-the-badge)
 ![](https://dcbadge.vercel.app/api/shield/540014696745533440)
