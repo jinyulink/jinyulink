@@ -1,6 +1,5 @@
 ## Hi there 👋
-* 🔭 sophomore CS student at NCU.
-* 🌱 learning js / ts / electron / os / algo / ds / php / laravel ...
+* 🔭 junior CS student at NCU.
 
 ![](https://komarev.com/ghpvc/?username=your-github-jinyulink&style=for-the-badge)
 ![](https://dcbadge.vercel.app/api/shield/540014696745533440)
