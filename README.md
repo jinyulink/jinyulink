@@ -1,5 +1,6 @@
 ## Hi there 👋
 * 🔭 junior CS student at NCU.
+* 🌿 learning software engineering, full-stack development
 
 ![](https://komarev.com/ghpvc/?username=your-github-jinyulink&style=for-the-badge)
 ![](https://dcbadge.vercel.app/api/shield/540014696745533440)
