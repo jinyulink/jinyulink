@@ -1,6 +1,6 @@
 ## Hi there 👋
 * 🔭 junior CS student at NCU.
-* 🌿 learning software engineering, operating system, full-stack development.
+* 🌿 learning software engineering, operating system.
 * 🌱 passionate about algorithm and data-structure.
 
 ![](https://komarev.com/ghpvc/?username=your-github-jinyulink&style=for-the-badge)
